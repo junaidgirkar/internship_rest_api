@@ -13,7 +13,7 @@ There are 2 API endpoints:
 
 1. Clone the project.
     ```shell
-    $ git clone https://github.com/junaidgirkar/internship_rest_api
+    $ git clone https://github.com/junaidgirkar/internship_rest_api.git
     ```
 2. `cd` intro the project directory
     ```shell
